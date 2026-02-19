@@ -201,22 +201,6 @@ Example output:
 3 passed in 0.72s
 ```
 
----
-
-## 📸 Screenshots
-
-> *(Add your screenshots here for full marks)*
-
-Recommended:
-
-* POST success
-* Cache MISS log
-* Cache HIT log
-* Cache INVALIDATED log
-* Pytest passing
-
----
-
 ## 🎯 Design Decisions
 
 * **Cache-Aside** chosen for explicit control
